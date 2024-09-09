@@ -1,0 +1,8 @@
+antes da inversão: 5,3,1
+
+depois: 1,3,5
+
+
+antes: 9,3,6
+
+depois: 3,9,6
